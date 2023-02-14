@@ -1,1 +1,1 @@
-print("Essa alteração agora faz parte da branch nova")
+print("Essa alteração agora faz parte da branch nova!")
